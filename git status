@@ -1,0 +1,23 @@
+[33mcommit 3ce3d25120a4532685886ccb63614da194e407f4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature-1[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Paulo <paulonatajablonski@gmail.com>
+Date:   Fri Jun 23 21:48:19 2023 -0300
+
+    Adicionado o arquivo about.txt na branch main
+
+[33mcommit fb9da0a7f6296a8a5de7807b2a8fd5f0170dccf9[m
+Author: Paulo <paulonatajablonski@gmail.com>
+Date:   Fri Jun 23 21:45:24 2023 -0300
+
+    Adicionando o arquivo feature-1 na branch feature-1
+
+[33mcommit 3f241ee208ca879db09dfa653dcbc0cf7db140b4[m
+Author: Paulo <paulonatajablonski@gmail.com>
+Date:   Fri Jun 23 21:43:16 2023 -0300
+
+    Adicionado o Arquivo de Texto 1 na branch
+
+[33mcommit 01fe645511845a6f060aa57ff114528b78520eb0[m
+Author: Paulo Natã Jablonski <119634033+Paulo-N-Jablonski@users.noreply.github.com>
+Date:   Fri Jun 23 21:37:02 2023 -0300
+
+    Create README.md
